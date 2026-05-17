@@ -1,70 +1,26 @@
 # s0cks
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0cks&theme=transparent)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s0cks&theme=transparent)
+![repos-per-lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0cks&theme=transparent&exclude=Shell)
 
-- [Social](#social)
-- [Skills](#skills)
-- [GPG Key](#gpg-key)
-- [Stats](#stats)
+## Connect With Me
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Social
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tazzvose/)
-
-## Skills
-
-<!-- markdownlint-disable -->
-<details>
-<summary>Programming Languages</summary>
-<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,scala,angular,bash,c,cpp,css,less,scss,md,nodejs,py,ts&perline=5"/>
+  <a href="https://linkedin.com/in/tazzvose">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
-</details>
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
-<details>
-<summary>Frameworks</summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,reactivex,spring&perline=5"/>
-</p>
-</details>
-<!-- markdownlint-enable -->
+## My Stack
 
-<!-- markdownlint-disable -->
-<details>
-<summary>Databases</summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,mysql,postgres&perline=5"/>
-</p>
-</details>
-<!-- markdownlint-enable -->
-
-<!-- markdownlint-disable -->
-<details>
-<summary>Clouds</summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp&perline=5"/>
-</p>
-</details>
-<!-- markdownlint-enable -->
-
-<!-- markdownlint-disable -->
-<details>
-<summary>Tools</summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cmake,docker,git,github,gitlab,githubactions,gulp,kubernetes,linux,gradle,maven,npm,postman,terraform,vscode,webpack&perline=5"/>
-</p>
-</details>
-<!-- markdownlint-enable -->
+|                       |                                                                                   Skills                                                                                   |
+|----------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Programming Languages |                            <img src="https://skillicons.dev/icons?i=js,java,scala,angular,bash,c,cpp,css,less,scss,md,nodejs,py,ts&perline=5"/>                            |
+|            Frameworks |                                               <img src="https://skillicons.dev/icons?i=graphql,reactivex,spring&perline=5"/>                                               |
+|                  Data |                                         <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,mysql,postgres&perline=5"/>                                        |
+|                Clouds |                                                        <img src="https://skillicons.dev/icons?i=aws,gcp&perline=5"/>                                                       |
+|                 Tools | <img src="https://skillicons.dev/icons?i=cmake,docker,git,github,gitlab,githubactions,gulp,kubernetes,linux,gradle,maven,npm,postman,terraform,vscode,webpack&perline=5"/> |
 
 ## GPG Key
 
@@ -95,10 +51,3 @@ AP49/Sv2VrJBE7eYYChv25DeMPkk+i3jQFzHL4FXg78VAw==
 =CHBK
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-## Stats
-
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0cks&theme=default)
-
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s0cks&theme=default)
-![repos-per-lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0cks&theme=default)
