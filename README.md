@@ -20,7 +20,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=js,java,scala,angular,bash,c,cpp,css,less,scss,md,nodejs,py,ts&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=js,java,scala,angular,bash,c,cpp,css,less,scss,md,nodejs,py,ts&perline=11"/>
         </p>
       </td>
     </tr>
@@ -30,7 +30,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=graphql,reactivex,spring&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=graphql,reactivex,spring&perline=11"/>
         </p>
       </td>
     </tr>
@@ -40,7 +40,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,mysql,postgres&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,mysql,postgres&perline=11"/>
         </p>
       </td>
     </tr>
@@ -50,7 +50,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=aws,gcp&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=aws,gcp&perline=11"/>
         </p>
       </td>
     </tr>
@@ -60,7 +60,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=cmake,docker,git,github,gitlab,githubactions,gulp,kubernetes,linux,gradle,maven,npm,postman,terraform,vscode,webpack&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=cmake,docker,git,github,gitlab,githubactions,gulp,kubernetes,linux,gradle,maven,npm,postman,terraform,vscode,webpack&perline=11"/>
         </p>
       </td>
     </tr>
