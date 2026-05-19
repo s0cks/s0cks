@@ -1,8 +1,71 @@
 # s0cks
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0cks&theme=transparent)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s0cks&theme=transparent)
-![repos-per-lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0cks&theme=transparent&exclude=Shell)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0cks&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s0cks&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0cks&theme=transparent&exclude=Shell" />
+</p>
+
+## My Stack
+
+<p align="center">
+  <table>
+    <tr>
+      <th></th>
+      <th>Skills</th>
+    </tr>
+    <tr>
+      <td>
+        <p align="right">Programming Languages</p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=js,java,scala,angular,bash,c,cpp,css,less,scss,md,nodejs,py,ts&perline=5"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="right">Frameworks</p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=graphql,reactivex,spring&perline=5"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="right">Data</p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,mysql,postgres&perline=5"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="right">Cloud</p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=aws,gcp&perline=5"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="right">Tools</p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=cmake,docker,git,github,gitlab,githubactions,gulp,kubernetes,linux,gradle,maven,npm,postman,terraform,vscode,webpack&perline=5"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Connect With Me
 
@@ -11,16 +74,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-## My Stack
-
-|                       |                                                                                   Skills                                                                                   |
-|----------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Programming Languages |                            <img src="https://skillicons.dev/icons?i=js,java,scala,angular,bash,c,cpp,css,less,scss,md,nodejs,py,ts&perline=5"/>                            |
-|            Frameworks |                                               <img src="https://skillicons.dev/icons?i=graphql,reactivex,spring&perline=5"/>                                               |
-|                  Data |                                         <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,mysql,postgres&perline=5"/>                                        |
-|                Clouds |                                                        <img src="https://skillicons.dev/icons?i=aws,gcp&perline=5"/>                                                       |
-|                 Tools | <img src="https://skillicons.dev/icons?i=cmake,docker,git,github,gitlab,githubactions,gulp,kubernetes,linux,gradle,maven,npm,postman,terraform,vscode,webpack&perline=5"/> |
 
 ## GPG Key
 
